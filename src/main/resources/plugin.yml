@@ -1,0 +1,7 @@
+main: PombaMinaRecheada.Main
+author: Álison
+version: 1.0
+name: PombaMinaRecheada
+softdepend: [PombaPicareta, PrisonMines]
+commands:
+  minarecheada:
